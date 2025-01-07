@@ -119,7 +119,8 @@
               "title": "Nov"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,13 +261,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90bb8ca22577a418",
+  "active": "9b3f9c578675c799",
   "lastOpenFiles": [
+    "Networking/Network concepts & ITOM.md",
     "ITOM/CMDB.md",
     "Approval/Dec.md",
     "Pasted image 20250106191347.png",
     "Pasted image 20250106191335.png",
-    "Networking/Network concepts & ITOM.md",
     "2024-10-14.md",
     "Pasted image 20241130231510.png",
     "Pasted image 20241212124807.png",
