@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "ee558c388cf67e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6fb9d14aedb664d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90bb8ca22577a418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network concepts & ITOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network concepts & ITOM"
+            }
+          },
+          {
+            "id": "4297f62a3c08ce6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9b3f9c578675c799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approval/Sep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sep"
+            }
+          },
+          {
+            "id": "bfb5acb583a70e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "fb398fc75c91ae10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "457f81f87fdaf36f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approval/Sep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sep"
+            }
+          },
+          {
+            "id": "6f681066876d7742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approval/Nov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nov"
+            }
+          },
+          {
+            "id": "c1e772e96da51509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approval/Nov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nov"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17a9b512452a8f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "60053eb9099775dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "871554d38df72eab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffbcb5f1adb5f82d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "32199a55c88a3094",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7f61ef368c1847bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f4363767de6eae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd3c434191ec3286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Approval/OCT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OCT"
+            }
+          },
+          {
+            "id": "781374ceb3623f48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Approval/OCT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OCT"
+            }
+          },
+          {
+            "id": "0df24dd3e364d05b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cbdc173c0212367e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Approval/OCT.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OCT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90bb8ca22577a418",
+  "lastOpenFiles": [
+    "ITOM/CMDB.md",
+    "Approval/Dec.md",
+    "Pasted image 20250106191347.png",
+    "Pasted image 20250106191335.png",
+    "Networking/Network concepts & ITOM.md",
+    "2024-10-14.md",
+    "Pasted image 20241130231510.png",
+    "Pasted image 20241212124807.png",
+    "Pasted image 20240916174419.png",
+    "Networking",
+    "Approval/OCT.md",
+    "ITOM",
+    "Untitled 3.md",
+    "Approval/Sep.md",
+    "Approval/Nov.md",
+    "Pasted image 20241202121556.png",
+    "Pasted image 20241130231839.png",
+    "Pasted image 20241130231823.png",
+    "Pasted image 20241130231740.png",
+    "Pasted image 20241130231716.png",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Approval/Nov",
+    "Untitled 1.md",
+    "Untitled",
+    "Task Link.md",
+    "Welcome.md",
+    "Approval"
+  ]
+}
